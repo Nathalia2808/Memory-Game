@@ -1,0 +1,17 @@
+
+package proyectojuego;
+
+/**
+ *
+ * @author Nathalia
+ */
+public class ProyectoJuego {
+
+    
+    public static void main(String[] args) {
+
+    juego obj = new juego();
+        
+    }
+    
+}
